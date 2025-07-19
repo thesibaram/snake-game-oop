@@ -24,7 +24,7 @@
 
 ---
 
-## ▶️ How to Run
+## 🚀 **Get Started in 3 Easy Steps**
 1️⃣ Clone the repository:
 ```bash
 git clone https://github.com/thesibaram/snake-game-oop.git
@@ -40,7 +40,7 @@ python snake_game/main.py
 ```
 ---
 
-## 🐍✨ GitHub File Structure
+## 📂 Project Structure
 ```bash
 snake-game-oop/
 ├── snake_game/                  
@@ -75,14 +75,17 @@ snake-game-oop/
 ```
 
 ## 🎹 Sound Effects
-- 🎵 Features include:
-- Background music (loops while playing)
-- Eat sound when food is consumed
-- Wall collision sound and tail collision sound
-- Game over sound on losing
-All sound files are in the "assets/sounds/" folder.
+- 🎶 Background music (loops while playing)
+- 🍎 Eat sound when food is consumed
+- 💥 Wall collision sound and tail collision sound
+- 😢 Game over sound on losing
+All sound files are in the `assets/sounds/` folder.
 
 ## 📝 License
 This project is licensed under the MIT License.
 
+<h1>🕹️ Ready to Slither?<br>
+-Fork it.🍴<br>
+--Run it.🏃‍♂️<br>
+----Love it.❤️<br>
  
