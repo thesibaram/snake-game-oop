@@ -21,40 +21,71 @@
 
 ---
 
-## 🛠️ **Setup & Requirements**
-- Python 3.10+
-- `pygame` (for sound effects)
+## 📦 Requirements
+✅ Python 3.x  
+✅ Turtle module (pre-installed with Python)  
 
-Install dependencies:
+---
+
+## ▶️ How to Run
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/thesibaram/snake-game-oop.git
+cd snake-game-oop
+```
+## 2️⃣ Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+## 3️⃣ Run the simulator:
+```bash
+python snake_game/main.py
+```
+---
 
-
-
-
+## 🐍✨ GitHub File Structure
+```bash
 snake-game-oop/
-├── snake_game/                  # 📦 Main Python package
-│   ├── __init__.py              # Clean imports
-│   ├── main.py                  # 🚀 Main game loop
-│   ├── game.py                  # 🖥️ Screen setup
-│   ├── snake.py                 # 🐍 Snake class
-│   ├── food.py                  # 🥕 Food class
-│   ├── scoreboard.py            # 🏆 Scoreboard class
+├── snake_game/                  
+│   ├── __init__.py              
+│   ├── main.py                 
+│   ├── game.py                  
+│   ├── snake.py               
+│   ├── food.py                  
+│   ├── scoreboard.py            
 │
-├── assets/                      # 🎨 Game assets
+│
+├── assets/                 
 │   ├── sounds/
-│       ├── background.wav
-│       ├── eat.wav
-│       ├── collision.wav
-│       ├── game_over.wav
-│
-├── demo/                        # 🎥 Demo media
-│   ├── snake_game_demo_linkedin.mp4   # LinkedIn showcase video
-│   ├── snake_game_full_demo.mp4       # Full GitHub video
-│   ├── snake_game_preview.gif         # README animation
-│
-├── .gitignore                   # 🚫 Ignore unnecessary files
-├── README.md                     # 📖 Project overview
-├── LICENSE                       # 📝 Open-source license (MIT)
-├── requirements.txt              # 📦 Dependencies
+│   │   ├── background.wav
+│   │   ├── background.wav
+│   │   ├── eat.wav
+│   │   ├── collision.wav
+│   │   ├── game_over.wav
+│   │   
+│   ├── images/
+│       ├──background_pic.gif
+│       
+│       
+├── demo/                        
+│   ├── snake_game_full_demo.mp4       
+│    
+│    
+├── .gitignore                  
+├── README.md                    
+├── LICENSE                       
+├── requirements.txt            
+```
 
+## 🎹 Sound Effects
+- 🎵 Features include:
+- Background music (loops while playing)
+- Eat sound when food is consumed
+- Wall collision sound and tail collision sound
+- Game over sound on losing
+All sound files are in the "assets/sounds/" folder.
+
+## 📝 License
+This project is licensed under the MIT License.
+
+ 
