@@ -13,11 +13,8 @@
 ---
 
 ## 🚀 **Demo**
-🎥 LinkedIn-Style Demo:  
-[▶ Watch here](demo/snake_game_demo_linkedin.mp4)
+[![Watch the demo](demo/snake_game_preview.gif)](https://github.com/user-attachments/assets/ec1e70ea-66e5-4dd8-8fb0-b5617c03db33)
 
-🎞️ README Preview:  
-![Snake Game Preview](demo/snake_game_preview.gif)
 
 ---
 
